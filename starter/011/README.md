@@ -6,4 +6,6 @@
 Wordpress Coding Standards Practising
 =====================
 
++ LeetCode: https://leetcode.com/problems/merge-strings-alternately/
+
 ```
