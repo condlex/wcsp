@@ -23,8 +23,8 @@ class Zero_Mover {
     function run() {
         $number_count = count( $this->numbers );
         for ( $i = 0; $i < $number_count; $i++ ) {
-            if ( $this->numbers[$i] == 0 ) {
-                unset( $this->numbers[$i] );
+            if ( $this->numbers[ $i ] == 0 ) {
+                unset( $this->numbers[ $i ] );
                 $this->numbers[] = 0;
             }
         }       
